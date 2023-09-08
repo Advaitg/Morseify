@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">Morseify</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="morse_code">Morse Code</string>
+    <string name="text">Text</string>
+    <string name="convertButton">convertButton</string>
+    <string name="accelerator">Accelerator</string>
+    <string name="content_description_accelerator">Accelerator</string>
+    <string name="rotation">Rotation</string>
+    <string name="content_description_rotation">Rotation description</string>
+    <string name="text_label_1">Home</string>
+    <string name="text_label_2">Info</string>
+    <string name="Info_sun_text">Conversion things to keep in mind:\n</string>
+    <string-array name="InfoString">
+        <item>•Two letters from source text are separated by space in Morse Code output</item>
+        <item>•These letters are supported: (A–Z), (a–z), (0–9) and (\".\", \",\", \" \")</item>
+        <item>•Space between two words from Source Text is displayed as forward slash (\"\\\") in Morse Code Output </item>
+    </string-array>
+    <string name="morseCodeInfoMainText">\n\nHistory of Morse Code</string>
+    <string name="morseCodeInfoText">Morse code is a method used in telecommunication to encode text characters as standardized sequences of two different signal durations, called dots(.) and dashes (-), or dits and dahs. Morse code is named after Samuel Morse, one of the inventors of the telegraph.</string>
+</resources>
