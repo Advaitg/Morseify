@@ -9,12 +9,16 @@ An Android app that converts regular text into Morse code! Whether you're learni
 - 📱 Lightweight and easy-to-use UI
 
 ## 📸 Screenshots
+- Initial Home Page
+<img src="app/src/Screenshot_20250505-225652.png" width="250">
 
-<!-- Add screenshots here if available -->
-<!-- Example:
-<img src="screenshots/screen1.png" width="250">
-<img src="screenshots/screen2.png" width="250">
--->
+- Converted Text
+<img src="app/src/Screenshot_20250505-225751.png" width="250">
+
+- Information page 
+<img src="app/src/Screenshot_20250505-225806.png" width="250">
+
+
 
 ## 🚀 Getting Started
 
